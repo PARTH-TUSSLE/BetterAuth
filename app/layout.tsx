@@ -31,8 +31,8 @@ export default function RootLayout({
         <nav>
           <Link href="/">Home</Link> &nbsp;
           <Link href="/dashboard">Dashboard</Link>&nbsp;
-          <Link href="/signup">Signup</Link>&nbsp;
-          <Link href="signin">SIGNIN</Link>
+          <Link href="/signup">SignUp</Link>&nbsp;
+          <Link href="signin">SignIn</Link>
         </nav>
         {children}
       </body>
